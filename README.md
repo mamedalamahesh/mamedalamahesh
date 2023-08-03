@@ -1,7 +1,10 @@
-https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif
+![](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 
 
 
+<div align="center">
+  <h1>Hi there👋, I'm Mahesh Mamedala</h1>
+</div>
 
 
 
